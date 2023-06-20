@@ -1,0 +1,18 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Resume Parsing and Filtering System
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://github.com/Harshit-2000/ResumeScraper"
+  description: A powerful CV Scraper that is built using Flask framework, NLTK library, and SQLite database. This application can effectively extract essential data points such as name, experience, mobile number, and email from resumes. The system has the ability to classify resumes based on job profiles and calculate a score for each resume by using a formula uploaded by the user.
+
+
+# Springfield Community Outreach Group
+- project: Study Room - A chat room application
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  url: "https://github.com/Harshit-2000/StudyRoom"
+  description: A messaging application using Django, Redis, SQLite database. This application leverages Django's Model-View-Template architecture to support chat rooms, user authentication, and CRUD operations for users, chat rooms, and messages.
+  
