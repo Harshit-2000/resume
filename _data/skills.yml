@@ -1,0 +1,18 @@
+# Skills
+# Organizational leadership
+- skill: Backend Development
+  description: Django, Flask, Djnago Rest Framework
+
+# Communications strategy
+- skill: Frontend Development
+  description: HTML, CSS, React JS
+
+# Digital content development and creation
+- skill: Databases
+  description: PostgreSQL, SQLite, Redis
+
+- skill: Computer Fundamentals
+  description: OOPs, DBMS, Operating System, Linux
+
+- skill: Programming
+  description: Python, C++, JavaScript, Data Structure and Algorithms
